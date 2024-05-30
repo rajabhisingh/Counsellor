@@ -1,0 +1,11 @@
+1711432488014	Rename type 'Enquiry'
+1711435489555	Rename resource 'ViewEnquiry'
+1711458837279	Rename resource 'registration.html'
+1711508488362	Rename resource 'enquiry.html'
+1711520031907	Rename resource 'ViewEnquiry.html'
+1711522842389	Move source folder
+1711533974116	Rename type 'Student'
+1711535532843	Rename type 'Enquiries'
+1711535749221	Rename type 'StudentRepository'
+1711536235606	Rename type 'StudentService'
+1711537172639	Rename compilation unit 'StudentServiceImpl.java'
